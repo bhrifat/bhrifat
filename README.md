@@ -5,7 +5,7 @@ Experienced in web design and development.
 
 
 ### Skills and Experience
-* ⚛ React, 
+* ⚛ React
 * 💻Express, NodeJS
 * 💻JavaScript, HTML, CSS
 
